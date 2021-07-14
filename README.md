@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @imapug
+- 👀 I’m interested in web development and data analysis
+- 🌱 I’m currently learning machine learning
+- 📫 Reach me at catinodev@gmail.com
