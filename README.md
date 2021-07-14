@@ -2,3 +2,6 @@
 - 👀 I’m interested in web development and data analysis
 - 🌱 I’m currently learning machine learning
 - 📫 Reach me at catinodev@gmail.com
+- Favorite quote: "Willpower without action is fantasy."
+- LinkedIn: https://www.linkedin.com/in/christopher-catino-developer
+- Facebook: https://www.facebook.com/chris.catino.58
