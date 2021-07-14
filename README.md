@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @imapug
-- 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently learning machine learning
-- 📫 Reach me at catinodev@gmail.com
-- Favorite quote: "Willpower without action is fantasy."
+- 👋 Hi, I’m @imapug (better known as Chris) I have been working on web development projects for over five years and have a range of expertise in a number of programming languages, databases, and services. My specialties are PHP based MVC frameworks and Python for data analysis and automation tasks. I have experience with hosting, deployment, and server administration with Linux and Windows Server. The thing I love most about programming is the ability to challenge the mind to seek out innovative solutions to problems, as well as a chance to work on fun teams to complete tasks effectively and efficiently.
+- 👀 I’m interested mostly in web development and data analysis.
+- 🌱 I’m currently learning machine learning and getting my feet wet with Tensorflow and Keras
+- 📫 Reach me at catinodev@gmail.com and visit my consulting company's website @ http://setconsultants.com/
+- 💬 Favorite quote: "Willpower without action is fantasy."
 - LinkedIn: https://www.linkedin.com/in/christopher-catino-developer
 - Facebook: https://www.facebook.com/chris.catino.58
